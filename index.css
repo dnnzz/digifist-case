@@ -1,12 +1,12 @@
 
 @font-face {
   font-family: 'ITCAvantGardePro-Bold';
-  src: url('../assets/fonts/ITCAvantGardePro-Bold.otf');
+  src: url('../digifist-case/assets/fonts/Avenir.ttc');
 }
 
 @font-face {
   font-family: 'Avenir';
-  src: url('../assets/fonts/Avenir.ttc');
+  src: url('../digifist-case/assets/fonts/Avenir.ttc');
 }
 
 body {
